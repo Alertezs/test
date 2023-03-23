@@ -225,7 +225,7 @@ img.emoji {
 </script>
 <link rel='stylesheet' id='rs-plugin-settings-css' href='https://daccordo.akramod.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.17' media='all' />
 <style id='rs-plugin-settings-inline-css'>
-		.arrow-vector-svg:before{content:""; display:inline-flex; align-items:center; background-image:url(https://daccordo.akramod.com/wp-content/uploads/2023/03/sumally-svgrepo-com.svg);  background-repeat:no-repeat;  background-size:contain;  -webkit-background-clip:text; -webkit-text-fill-color:transparent; fill:currentColor; mask-size:contain}
+		.arrow-vector-svg:after{content:"";  display:inline-flex;  align-items:center;  background-image:url(https://daccordo.akramod.com/wp-content/uploads/2023/03/sumally-svgrepo-com.svg);  background-repeat:no-repeat;  background-size:contain;  margin-right:0.5em;  width:inherit;  height:inherit;  font-size:inherit;  color:inherit;  -webkit-background-clip:text;  -webkit-text-fill-color:transparent;  fill:currentColor;  mask-image:url(https://daccordo.akramod.com/wp-content/uploads/2023/03/sumally-svgrepo-com.svg);  mask-repeat:no-repeat;  mask-size:contain;  z-index:1}
 </style>
 <script src='https://daccordo.akramod.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4' id='swv-js'></script>
 <script id='contact-form-7-js-extra'>
